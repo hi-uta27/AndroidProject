@@ -1,7 +1,7 @@
 # AndroidProject
 
 |STT| <h1> Name of Project </h1> | Image
-|:---|:---
+|:---|:---|:---
 |1.	| [How to build a simple Calculator app using Android Studio?](https://github.com/TaHieu279/AndroidProject/blob/main/Caculator/app/src/main/java/com/tavanhieu/caculator/MainActivity.kt) | [ImageApp]()
 |2.	| Android App to Add Two Numbers  | [ImageApp]()
 |3.	| [Display multiplication table of a number](https://github.com/TaHieu279/AndroidProject/blob/main/MutipleTableOfNumber/app/src/main/java/com/tavanhieu/mutipletableofnumber/MainActivity.kt)  | [ImageApp]()
