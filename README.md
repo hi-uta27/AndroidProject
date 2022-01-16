@@ -1,6 +1,6 @@
 # AndroidProject
 
-|STT| <h1 algin="center"> Name of Project </h1> | Image
+|STT| <h1 align="center"> Name of Project </h1> | Image
 |:---|:---|:---
 |1.	| [How to build a simple Calculator app using Android Studio?](https://github.com/TaHieu279/AndroidProject/blob/main/Caculator/app/src/main/java/com/tavanhieu/caculator/MainActivity.kt) | [ImageApp]()
 |2.	| Android App to Add Two Numbers  | [ImageApp]()
