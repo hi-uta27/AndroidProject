@@ -3,7 +3,7 @@
 |STT| <h1 align="center"> Name of Project </h1> | Image
 |:---|:---|:---
 |1.	| [How to build a simple Calculator app using Android Studio?](https://github.com/TaHieu279/AndroidProject/blob/main/Caculator/app/src/main/java/com/tavanhieu/caculator/MainActivity.kt) | [ImageApp](https://github.com/TaHieu279/AndroidProject/blob/main/ImageForApp/ex1.md)
-|2.	| Android App to Add Two Numbers  | [ImageApp]
+|2.	| Android App to Add Two Numbers(The same with Ex1) | ImageApp
 |3.	| [Display multiplication table of a number](https://github.com/TaHieu279/AndroidProject/blob/main/MutipleTableOfNumber/app/src/main/java/com/tavanhieu/mutipletableofnumber/MainActivity.kt)  | [ImageApp](https://github.com/TaHieu279/AndroidProject/blob/main/ImageForApp/ex3.md)
 |4.	| Complete guide on How to build a Video Player in Android | [ImageApp]()
 |5.	| How to create a Stopwatch App using Android Studio | [ImageApp]()
