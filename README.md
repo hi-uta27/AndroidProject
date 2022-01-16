@@ -2,9 +2,9 @@
 
 |STT| <h1> Name of Project </h1>
 |:---|:---
-|1.	| [How to build a simple Calculator app using Android Studio?]()
+|1.	| [How to build a simple Calculator app using Android Studio?](https://github.com/TaHieu279/AndroidProject/blob/main/Caculator/app/src/main/java/com/tavanhieu/caculator/MainActivity.kt)
 |2.	| Android App to Add Two Numbers
-|3.	| [Display multiplication table of a number]()
+|3.	| [Display multiplication table of a number](https://github.com/TaHieu279/AndroidProject/blob/main/MutipleTableOfNumber/app/src/main/java/com/tavanhieu/mutipletableofnumber/MainActivity.kt)
 |4.	| Complete guide on How to build a Video Player in Android
 |5.	| How to create a Stopwatch App using Android Studio
 |6.	| How to build a simple music player app using Android Studio
