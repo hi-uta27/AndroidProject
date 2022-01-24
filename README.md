@@ -7,7 +7,7 @@
 |3.	| [Display multiplication table of a number](https://github.com/TaHieu279/AndroidProject/blob/main/MutipleTableOfNumber/app/src/main/java/com/tavanhieu/mutipletableofnumber/MainActivity.kt)  | [ImageApp](https://github.com/TaHieu279/AndroidProject/blob/main/ImageForApp/ex3.md)
 |4.	| [Complete guide on How to build a Video Player in Android](https://github.com/TaHieu279/AndroidProject/blob/main/VideoPlayer/MainActivity.kt) | [ImageApp](https://github.com/TaHieu279/AndroidProject/blob/main/ImageForApp/ex4.md)
 |5.	| [How to create a Stopwatch App using Android Studio](https://github.com/TaHieu279/AndroidProject/blob/main/StopWatch/app/src/main/java/com/tavanhieu/stopwatch/MainActivity.kt) | [ImageApp](https://github.com/TaHieu279/AndroidProject/blob/main/ImageForApp/ex5.md)
-|6.	| [How to build a simple music player app using Android Studio] | [ImageApp]
+|6.	| [How to build a simple music player app using Android Studio](https://github.com/TaHieu279/AndroidProject/blob/main/SimpleMusicPlayer/app/src/main/java/com/tavanhieu/simplemusicplayer/MainActivity.kt) | [ImageApp](https://github.com/TaHieu279/AndroidProject/blob/main/ImageForApp/ex6.md)
 |7.	| [How to Build a Simple Reflex Game in Android?] | [ImageApp]
 |8.	| [Guessing the Number Game using Android Studio] | [ImageApp]
 |9.	| [How to Build a Simple Flashlight/TorchLight Android App?] | [ImageApp]
