@@ -9,7 +9,7 @@
 |5.	| [How to create a Stopwatch App using Android Studio](https://github.com/TaHieu279/AndroidProject/blob/main/StopWatch/app/src/main/java/com/tavanhieu/stopwatch/MainActivity.kt) | [ImageApp](https://github.com/TaHieu279/AndroidProject/blob/main/ImageForApp/ex5.md)
 |6.	| [How to build a simple music player app using Android Studio](https://github.com/TaHieu279/AndroidProject/blob/main/SimpleMusicPlayer/app/src/main/java/com/tavanhieu/simplemusicplayer/MainActivity.kt) | [ImageApp](https://github.com/TaHieu279/AndroidProject/blob/main/ImageForApp/ex6.md)
 |7.	| [How to Build a Simple Reflex Game in Android?](https://github.com/TaHieu279/AndroidProject/blob/main/SimpleReflex/app/src/main/java/com/tavanhieu/simplereflex/MainActivity.kt) | [ImageApp](https://github.com/TaHieu279/AndroidProject/blob/main/ImageForApp/ex7.md)
-|8.	| [Guessing the Number Game using Android Studio] | [ImageApp]
+|8.	| [Guessing the Number Game using Android Studio] | [ImageApp](https://github.com/TaHieu279/AndroidProject/blob/main/ImageForApp/ex8.md)
 |9.	| [How to Build a Simple Flashlight/TorchLight Android App?] | [ImageApp]
 |10. | [How to Build Spin the Bottle Game Application in Android?] | [ImageApp]
 |11. | [How to Build a Simple Notes App in Android?] | [ImageApp]
