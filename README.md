@@ -12,7 +12,7 @@
 |8.	| [Guessing the Number Game using Android Studio] | [ImageApp](https://github.com/TaHieu279/AndroidProject/blob/main/ImageForApp/ex8.md)
 |9.	| [How to Build a Simple Flashlight/TorchLight Android App?] | [ImageApp](https://github.com/TaHieu279/AndroidProject/blob/main/ImageForApp/ex9.md)
 |10. | [How to Build Spin the Bottle Game Application in Android?] | [ImageApp](https://github.com/TaHieu279/AndroidProject/blob/main/ImageForApp/ex10.md)
-|11. | [How to Build a Simple Notes App in Android?](https://github.com/TaHieu279/NoteApp/tree/main/NoteApp/app/src/main/java/com/tavanhieu/noteapp) | [ImageApp] (https://github.com/TaHieu279/AndroidProject/blob/main/ImageForApp/ex11.md)
+|11. | [How to Build a Simple Notes App in Android?](https://github.com/TaHieu279/NoteApp/tree/main/NoteApp/app/src/main/java/com/tavanhieu/noteapp) | [ImageApp](https://github.com/TaHieu279/AndroidProject/blob/main/ImageForApp/ex11.md)
 |12. | [How to Build a Dice Game in Android?] | [ImageApp]
 |13. | [Voice Based Android Mail System for Visually Impaired (Project Idea)] | [ImageApp]
 |14. | [Dashboard UI Design in Android] | [ImageApp]
