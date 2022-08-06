@@ -1,5 +1,5 @@
 # AndroidProject
-# Using ViewId Without FindViewById
+### Using ViewId Without FindViewById
 plugins {
     //...
     id 'kotlin-android-extensions'
