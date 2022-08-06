@@ -1,5 +1,9 @@
 # AndroidProject
-
+# Using ViewId Without FindViewById
+plugins {
+    //...
+    id 'kotlin-android-extensions'
+}
 |STT| <h1 align="center"> Name of Project </h1> | Image
 |:---|:---|:---
 |1.	| [How to build a simple Calculator app using Android Studio?](https://github.com/TaHieu279/AndroidProject/blob/main/Caculator/app/src/main/java/com/tavanhieu/caculator/MainActivity.kt) | [ImageApp](https://github.com/TaHieu279/AndroidProject/blob/main/ImageForApp/ex1.md)
